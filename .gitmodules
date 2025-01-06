@@ -1,0 +1,6 @@
+[submodule "repos/agrobot_ros"]
+	path = repos/agrobot_ros
+	url = https://github.com/Wouter-Klaassen/Agrobot_ROS.git
+[submodule "repos/agrobot_mca"]
+	path = repos/agrobot_mca
+	url = https://github.com/Wouter-Klaassen/Agrobot_MCA.git
